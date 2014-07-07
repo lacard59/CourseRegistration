@@ -1,1 +1,9 @@
 c:\users\luis\documents\visual studio 2013\Projects\CourseRegistrationSolution\CourseRegistration\bin\Debug\CourseRegistration.exe.config
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\bin\Debug\CourseRegistration.exe.config
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\obj\Debug\CourseRegistration.csprojResolveAssemblyReference.cache
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\obj\Debug\CourseRegistration.Properties.Resources.resources
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\obj\Debug\CourseRegistration.csproj.GenerateResource.Cache
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\bin\Debug\CourseRegistration.exe
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\bin\Debug\CourseRegistration.pdb
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\obj\Debug\CourseRegistration.exe
+C:\Git\CourseRegistration\CourseRegistrationSolution\CourseRegistration\obj\Debug\CourseRegistration.pdb
